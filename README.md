@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NSAGIT
+- 👋 Hi, I’m @KSSOMSMIL3S
 - 👀 I’m interested in learning how to automate in powershell 7 and beyond
 - 🌱 I’m currently learning powershell
 - 💞️ I’m looking to collaborate on many powershell based tasks 
