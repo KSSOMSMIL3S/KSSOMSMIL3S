@@ -18,14 +18,13 @@ If you want to join me in my gaming sessions, hit me up on the100.io LFG website
 
 Career Path Seeking `Cloud Security Engineer`
 
-- AWS:
-  - ~~Cloud Practionar~~
-  - Solutions Architect Associates
-  - AWS: Certified Security Specialty
-- Azure:
-  - TBA
-- CSA:
-  - Certificate of Cloud Security Knowledge CCSK v5
+| Certification / Certificates       | In Progress/Pass/Fail          | Source |
+|:-------------|:------------------|:------|
+| AWS Cloud Practitioner          | PASS | Redacted  |
+| AWS Solutions Architect Associates|  In Progress  |   |
+| AWS Certified Security Specialty           |       |    |
+| Azure TBA          |  |   |
+| CSA Certificate of Cloud Security Knoweldge CCSK v5           |  |   |
 
 -----
 
