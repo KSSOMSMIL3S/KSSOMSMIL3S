@@ -10,7 +10,7 @@ LinkedIn: redacted
 
 This public webpage was created to share my on-going `projects` in my HomeLab centre. Also sharing my certification tree, and continuing education. I do hope that I can stay on track with all my projects and initiatives in-between my studies ~~and getting pawned in valorant bronze lobbies.~~
 
-If you want to join me in my gaming sessions, hit me up on the100.io LFG website [here](https://www.the100.io/groups/v2/2425) or join me on discord [here]()
+If you want to join me in my gaming sessions, hit me up on the100.io LFG website [here](https://youtu.be/sXwaRjU7Tj0) or join me on discord [here](https://youtu.be/sXwaRjU7Tj0)
 
 ----
 
@@ -37,20 +37,9 @@ Career Path Seeking `Cloud Security Engineer`
 
 ### KSSOMSMIL3S SIEM Homelab Project
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+1.  Pick a software to use for the project
+2.  grumble grumble
+3.  Go Live
 -----
 
 ### KSSOMSMIL3S OPENMEDIA Homelab Project
@@ -88,32 +77,12 @@ end
 
 -----
 
-### Small image
+### S.H.I.T
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Get yo S.H.I.T together](https://github.com/KSSOMSMIL3S/KSSOMSMIL3S/blob/main/20240609_060131.jpg)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+-----
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+If you need me, just ping I'm awalys online doing some s.h.i.t getting lost in a course somewhere late at night. With that said, peace out!
 ```
