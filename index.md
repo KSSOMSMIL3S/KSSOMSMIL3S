@@ -1,26 +1,41 @@
 ---
-layout: default
+Youtube: redacted
+Twitter: redacted
+Twitch: redacted
+LinkedIn: redacted
+
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+**Overview**
 
-[Link to another page](./another-page.html).
+This public webpage was created to share my on-going `projects` in my HomeLab centre. Also sharing my certification tree, and continuing education. I do hope that I can stay on track with all my projects and initiatives in-between my studies ~~and getting pawned in valorant bronze lobbies.~~
 
-There should be whitespace between paragraphs.
+If you want to join me in my gaming sessions, hit me up on the100.io LFG website [here](https://www.the100.io/groups/v2/2425) or join me on discord [here]()
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+----
 
-# Header 1
+# KSSOMSMIL3S Certification Tracker
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Career Path Seeking `Cloud Security Engineer`
 
-## Header 2
+- AWS:
+  - ~~Cloud Practionar~~
+  - Solutions Architect Associates
+  - AWS: Certified Security Specialty
+- Azure:
+  - TBA
+- CSA:
+  - Certificate of Cloud Security Knowledge CCSK v5
 
-> This is a blockquote following a header.
+-----
+
+### KSSOMSMIL3S VMWare ESXI 8.0 Homelab Project
+
+> Currently upgrading my VMWARE ESXI 6.7v Homelab to VMWARE ESXI 8.0v
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Tower specifications coming soon...
 
-### Header 3
+### KSSOMSMIL3S SIEM Homelab Project
 
 ```js
 // Javascript code with syntax highlighting.
@@ -36,61 +51,42 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+-----
 
-#### Header 4
+### KSSOMSMIL3S OPENMEDIA Homelab Project
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+1.  Build OPENMEDIA image on VMWARE ESXI 8.0v
+2.  grumble grumble
+3.  Go Live
 
-##### Header 5
+-----
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### KSSOMSMIL3S Plex Server Initiative 
 
-###### Header 6
+1.  Create Windows 11 image on VMWARE ESXI 8.0v 
+2.  Create Plex Admin account
+3.  Modify Firewall rules
+4.  Modify DNS and Proxy
+5.  Install VPN application
+6.  Install torrent application
+7.  Install Plex server application
+8.  Modify media library
+9.  Test local connection to server
+10.  Go Live
 
-| head1        | head two          | three |
+-----
+
+### 100 Days of Coding Projects
+
+| Exercise        | Pass/Fail          | Repo |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Beginner           |  |   |
+| Intermediate |    |   |
+| Intermediate+           |       |    |
+| Advanced           |  |   |
+| Professional           |  |   |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+-----
 
 ### Small image
 
