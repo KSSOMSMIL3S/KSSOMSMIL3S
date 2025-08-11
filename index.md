@@ -22,15 +22,15 @@ Career Path Seeking `Cloud Security Engineer`
 |:-------------|:------------------|:------|
 | AWS Cloud Practitioner          | PASS | Redacted  |
 | AWS Solutions Architect Associates|  In Progress  |   |
-| AWS Certified Security Specialty           |       |    |
+| Cisco Certified Network Associate           |       |    |
 | Azure TBA          |  |   |
 | CSA Certificate of Cloud Security Knoweldge CCSK v5           |  |   |
 
 -----
 
-### KSSOMSMIL3S VMWare ESXI 8.0 Homelab Project
+### KSSOMSMIL3S ProxMox Homelab Project
 
-> Currently upgrading my VMWARE ESXI 6.7v Homelab to VMWARE ESXI 8.0v
+> Currently upgrading my VMWARE ESXI 6.7v Homelab to ProxMox
 >
 > Tower specifications coming soon...
 
@@ -44,21 +44,21 @@ Career Path Seeking `Cloud Security Engineer`
 
 ### KSSOMSMIL3S OPENMEDIA Homelab Project
 
-1.  Build OPENMEDIA image on VMWARE ESXI 8.0v
+1.  Build OPENMEDIA image on a docker image in proxmox
 2.  grumble grumble
 3.  Go Live
 
 -----
 
-### KSSOMSMIL3S Plex Server Initiative 
+### KSSOMSMIL3S Jellyfin Server Initiative 
 
-1.  Create Windows 11 image on VMWARE ESXI 8.0v 
+1.  Create Windows 11 image on Proxmox 
 2.  Create Plex Admin account
 3.  Modify Firewall rules
 4.  Modify DNS and Proxy
 5.  Install VPN application
 6.  Install torrent application
-7.  Install Plex server application
+7.  Install jellyfin server application
 8.  Modify media library
 9.  Test local connection to server
 10.  Go Live
