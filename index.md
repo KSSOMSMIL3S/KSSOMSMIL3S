@@ -1,12 +1,14 @@
 ---
+# Socials
 Youtube: redacted
 Twitter: redacted
 Twitch: redacted
 LinkedIn: redacted
+LinkedIn: redacted
 
 ---
 
-**Overview**
+# Overview
 
 This public webpage was created to share my on-going `projects` in my HomeLab centre. Also sharing my certification tree, and continuing education. I do hope that I can stay on track with all my projects and initiatives in-between my studies ~~and getting pawned in valorant bronze lobbies.~~
 
@@ -16,7 +18,7 @@ If you want to join me in my gaming sessions, hit me up on the100.io LFG website
 
 # KSSOMSMIL3S Certification Tracker
 
-Career Path Seeking `Cloud Security Engineer`
+### Career Path Seeking `Cloud Security Engineer`
 
 | Certification / Certificates       | In Progress/Pass/Fail          | Source |
 |:-------------|:------------------|:------|
@@ -28,15 +30,15 @@ Career Path Seeking `Cloud Security Engineer`
 
 -----
 
-### KSSOMSMIL3S ProxMox Homelab Project
+# KSSOMSMIL3S ProxMox Homelab Project
 
-> Currently upgrading my VMWARE ESXI 6.7v Homelab to ProxMox
->
-> Tower specificiations:
-> Lenovo ThinkCentre M910s (procured via Ebay)
-> 16GB 2Rx8 PC4 2133P x2 (procured via Ebay)
-> SanDisk Sata 256GB x2 (procured via Ebay)
-> Samsung 256GB PCIe NVMe (procured via Ebay)
+Currently upgrading my VMWARE ESXI 6.7v Homelab to ProxMox
+
+### Tower specificiations:
+1. Lenovo ThinkCentre M910s (procured via Ebay)
+2. 16GB 2Rx8 PC4 2133P x2 (procured via Ebay)
+3. SanDisk Sata 256GB x2 (procured via Ebay)
+4. Samsung 256GB PCIe NVMe (procured via Ebay)
 
 ### KSSOMSMIL3S SIEM Homelab Project
 
