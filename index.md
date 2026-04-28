@@ -33,10 +33,10 @@ Career Path Seeking `Cloud Security Engineer`
 > Currently upgrading my VMWARE ESXI 6.7v Homelab to ProxMox
 >
 > Tower specificiations:
-> Lenovo ThinkCentre M910s (procured via Ebay $$)
-> 16GB 2Rx8 PC4 2133P x2 (procured via Ebay $$)
-> SanDisk Sata 256GB x2 (procured via Ebay $$)
-> Samsung 256GB PCIe NVMe (procured via Ebay $)
+> Lenovo ThinkCentre M910s (procured via Ebay)
+> 16GB 2Rx8 PC4 2133P x2 (procured via Ebay)
+> SanDisk Sata 256GB x2 (procured via Ebay)
+> Samsung 256GB PCIe NVMe (procured via Ebay)
 
 ### KSSOMSMIL3S SIEM Homelab Project
 
