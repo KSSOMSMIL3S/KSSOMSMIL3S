@@ -24,7 +24,7 @@
   + ~~ProxMox Server~~
   + ~~OpenMediaVault Server~~
   + JellyFin and/or Plex Media Server
-  + Docker Container
+  + ~~Docker Container~~
   + Ticketing System with SMS Notifications
 ------
 ## 😄Goals
